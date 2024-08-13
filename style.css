@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+}
+.copyright {
+      content: "\00A9";
+      font-size: 1.2em;
+      color: gray;
+}
